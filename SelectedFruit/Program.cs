@@ -64,3 +64,5 @@ Console.WriteLine("Hangi Meyveyi Satın Almak İsterdiniz (Elma/Armut/Çilek/Muz
     }
 
   */
+
+// switch yapisini kullanmak bu uygulama icin daha mantikli cunku okunabilirligi daha yuksek 
